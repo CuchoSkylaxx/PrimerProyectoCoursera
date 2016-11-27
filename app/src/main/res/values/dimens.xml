@@ -1,0 +1,12 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin_big">36dp</dimen>
+    <dimen name="button_margin_top">96dp</dimen>
+    <dimen name="button_margin_top_land">0dp</dimen>
+    <dimen name="bienvenido_size">56sp</dimen>
+    <dimen name="bienvenido_size_land">32sp</dimen>
+    <dimen name="button_text_size">32sp</dimen>
+
+</resources>
